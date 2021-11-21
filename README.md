@@ -1,3 +1,0 @@
-# testGithubActions
-xz
-sad
