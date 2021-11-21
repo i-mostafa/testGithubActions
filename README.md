@@ -1,4 +1,0 @@
-# testGithubActions
-xza
-ewqe
-dfg
